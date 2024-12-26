@@ -1,4 +1,6 @@
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhyeonseo&layout=compact)
+-->
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요.👋 </h2>  
@@ -23,13 +25,15 @@
           <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
     </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhyeonseo&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhyeonseo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          />
+
     
 <!--
 **janhyeonseo/janhyeonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
