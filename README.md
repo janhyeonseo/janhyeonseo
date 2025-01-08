@@ -8,7 +8,7 @@ https://github-profile-readme-editor.netlify.app/
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
       <h4>
           안녕하세요. 앞으로 꾸준히 성장할 개발자 장현서입니다.<br><br>
-          저는 배우는 것이 즐겁고 새로운 기술을 늘 찾아봐요!  
+          저는 배우는 것이 즐겁고 새로운 기술을 늘 찾아봐요! 
       </h4>
       </div> 
 </div>
